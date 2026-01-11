@@ -26,25 +26,25 @@ Smart Building Management System automates and centrally controls building subsy
 ![Login Screen](Images/login.png)
 
 ### Main Menu
-![Main Menu](images/Main-menu.png)
+![Main Menu](Images/Main-menu.png)
 
 ### User Show Screen
-![User Show](images/SHOW-USER.png)
+![User Show](Images/SHOW-USER.png)
 
 ### Lighting Control
-![Lighting Module](images/LIGHTINING.png)
+![Lighting Module](Images/LIGHTINING.png)
 
 ### HVAC Module
-![HVAC Module](images/HVAC.png)
+![HVAC Module](Images/HVAC.png)
 
 ### Security Module
-![Security Module](images/SECURITY.png)
+![Security Module](Images/SECURITY.png)
 
 ### Building status Module
-![Security Module](images/BUILDING.png)
+![Security Module](Images/BUILDING.png)
 
 ### PANIC MODE Module
-![Security Module](images/PANIC.png)
+![Security Module](Images/PANIC.png)
 
 
 
@@ -52,3 +52,18 @@ Smart Building Management System automates and centrally controls building subsy
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ghunain43/Smart-Building-Management-System.git
+
+2. Open the project in your preferred C++ IDE.
+
+3. Compile and run main.cpp.
+
+4. Follow on-screen instructions to interact with the dashboard.
+
+
+## Author
+Ghunain43
+
+Email: ghunain.fayaz@gmail.com
+
+GitHub: https://github.com/Ghunain43
+
